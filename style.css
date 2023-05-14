@@ -1,0 +1,145 @@
+.background{
+    background-image: url(photo1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.h11{
+    color: black;
+    text-shadow: 2px 2px darkcyan;
+    border-style: outset;
+    width: fit-content;
+    background: white;
+    padding: 0 10px;
+    position: relative;
+    left: 50%;
+    top: 20%
+}
+.h12{
+    color: black;
+    text-shadow: 2px 2px darkcyan;
+    border-style: outset;
+    width: fit-content;
+    background: white;
+    padding: 0 10px;
+    position: relative;
+    left: 40%;
+    top: 40%;
+}
+.h13{
+    color: black;
+    text-shadow: 2px 2px darkcyan;
+    position: relative;
+    width: fit-content;
+    padding: 0 10px;
+    background: white;
+    left: 40%;
+    top: 50%;
+    font-size:25px;
+}
+a:visited{
+    color: black;
+    text-shadow: 2px 2px darkcyan;
+}
+.divbig1{
+    position: relative;
+    top: 20%;
+    left: 30%;
+    display: flex;
+}
+.divinfo1{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+}
+a:hover{
+    color: coral;
+}
+.p1{
+    color: black;
+    font-family: oswald;
+}
+.divinfo2{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    top: 30%;
+}
+.divinfo3{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    top: 40%;
+}
+.divinfo4{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    left: 30%;
+}
+.divinfo5{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    left: 30%;
+}
+.divinfo6{
+    border-style: solid;
+    color: greenyellow;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    left: 25%;
+}
+.divbig2{
+    position: relative;
+    top: 30%;
+    left: 30%;
+    display: flex;
+}
+.divbig3{
+    position: relative;
+    top: 40%;
+    left: 30%;
+    display: flex;
+}
+.button{
+    position: relative;
+    left: 80%;
+    top: 50%;
+    border-style: solid;
+    color: red;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    border-radius: 15px;
+}
+.a1{
+    text-decoration: none;
+}
+a:active{
+    color: cyan;
+}
